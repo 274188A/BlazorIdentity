@@ -9,7 +9,7 @@ Conclusion:  It can't be done with the template code during project creation.
   * Build an API service to perform Login, and call it.  
   * Follow SignalR documentation to use Bearer Tokens via an Identity Server.
   
-If you want to follow my notes below, possibly find a mistake I made, please, be my guess.  But I'm pretty confident that SignInManager is incompatible with Blazor, for a lot of well documented reasons.  I would love to be proven wrong.
+If you want to follow my notes below, possibly find a mistake I made, please, be my guest.  But I'm pretty confident that SignInManager is incompatible with Blazor, for a lot of well documented reasons.  I would love to be proven wrong.
 
 This project is concluded.
 
